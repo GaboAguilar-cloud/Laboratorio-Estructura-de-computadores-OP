@@ -1,1 +1,1 @@
-# Laboratorio-Estructura-de-computadores-OP
+# Gabriel-Aguilar-estructura-computadores-act01
